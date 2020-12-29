@@ -4,4 +4,5 @@
 x = int(input())
 if x > 0 and x%2==0:
     print("正偶數")
-else 
+else x > 0 and x%2!=0:
+    print("腹肌數")
